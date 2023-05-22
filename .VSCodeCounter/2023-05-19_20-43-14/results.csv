@@ -1,0 +1,235 @@
+"filename", "language", "TypeScript", "TypeScript JSX", "CSS", "SVG", "comment", "blank", "total"
+"c:\Users\User\Desktop\navigation-categories-page\src\App.css", "CSS", 0, 0, 33, 0, 0, 6, 39
+"c:\Users\User\Desktop\navigation-categories-page\src\App.module.css", "CSS", 0, 0, 4, 0, 0, 1, 5
+"c:\Users\User\Desktop\navigation-categories-page\src\App.test.tsx", "TypeScript JSX", 0, 8, 0, 0, 0, 4, 12
+"c:\Users\User\Desktop\navigation-categories-page\src\App.tsx", "TypeScript JSX", 0, 24, 0, 0, 0, 6, 30
+"c:\Users\User\Desktop\navigation-categories-page\src\Navigation\MainNavigation.module.css", "CSS", 0, 0, 16, 0, 0, 1, 17
+"c:\Users\User\Desktop\navigation-categories-page\src\Navigation\MainNavigation.tsx", "TypeScript JSX", 0, 27, 0, 0, 0, 6, 33
+"c:\Users\User\Desktop\navigation-categories-page\src\Navigation\NavBar\NavItemIcon\INavItemIcon.ts", "TypeScript", 4, 0, 0, 0, 0, 1, 5
+"c:\Users\User\Desktop\navigation-categories-page\src\Navigation\NavBar\NavItemIcon\NavItemIcon.module.css", "CSS", 0, 0, 6, 0, 0, 2, 8
+"c:\Users\User\Desktop\navigation-categories-page\src\Navigation\NavBar\NavItemIcon\NavItemIcon.tsx", "TypeScript JSX", 0, 11, 0, 0, 0, 4, 15
+"c:\Users\User\Desktop\navigation-categories-page\src\Navigation\NavBar\NavItem\INavItemProps.ts", "TypeScript", 10, 0, 0, 0, 0, 2, 12
+"c:\Users\User\Desktop\navigation-categories-page\src\Navigation\NavBar\NavItem\NavItem.module.css", "CSS", 0, 0, 25, 0, 0, 3, 28
+"c:\Users\User\Desktop\navigation-categories-page\src\Navigation\NavBar\NavItem\NavItem.tsx", "TypeScript JSX", 0, 21, 0, 0, 0, 9, 30
+"c:\Users\User\Desktop\navigation-categories-page\src\Navigation\NavBar\SideNavigation\ISideNavigationProps.ts", "TypeScript", 4, 0, 0, 0, 0, 2, 6
+"c:\Users\User\Desktop\navigation-categories-page\src\Navigation\NavBar\SideNavigation\SideNavigation.tsx", "TypeScript JSX", 0, 13, 0, 0, 0, 5, 18
+"c:\Users\User\Desktop\navigation-categories-page\src\Routes\Routes.tsx", "TypeScript JSX", 0, 23, 0, 0, 2, 2, 27
+"c:\Users\User\Desktop\navigation-categories-page\src\TablePage\Actios\PageFromPages\IPageFromPagesProps.ts", "TypeScript", 4, 0, 0, 0, 0, 1, 5
+"c:\Users\User\Desktop\navigation-categories-page\src\TablePage\Actios\PageFromPages\PageFromPages.module.css", "CSS", 0, 0, 14, 0, 0, 1, 15
+"c:\Users\User\Desktop\navigation-categories-page\src\TablePage\Actios\PageFromPages\PageFromPages.tsx", "TypeScript JSX", 0, 14, 0, 0, 0, 6, 20
+"c:\Users\User\Desktop\navigation-categories-page\src\TablePage\Actios\PageInput\IPageInputProps.ts", "TypeScript", 3, 0, 0, 0, 0, 1, 4
+"c:\Users\User\Desktop\navigation-categories-page\src\TablePage\Actios\PageInput\PageInput.module.css", "CSS", 0, 0, 17, 0, 0, 3, 20
+"c:\Users\User\Desktop\navigation-categories-page\src\TablePage\Actios\PageInput\PageInput.tsx", "TypeScript JSX", 0, 16, 0, 0, 0, 5, 21
+"c:\Users\User\Desktop\navigation-categories-page\src\TablePage\Actios\ShowPageAmount\IShowPageAmountProps.ts", "TypeScript", 4, 0, 0, 0, 0, 1, 5
+"c:\Users\User\Desktop\navigation-categories-page\src\TablePage\Actios\ShowPageAmount\ShowPageAmount.module.css", "CSS", 0, 0, 14, 0, 0, 1, 15
+"c:\Users\User\Desktop\navigation-categories-page\src\TablePage\Actios\ShowPageAmount\ShowPageAmount.tsx", "TypeScript JSX", 0, 16, 0, 0, 0, 6, 22
+"c:\Users\User\Desktop\navigation-categories-page\src\TablePage\Actios\TurnPage\ITurnPageProps.ts", "TypeScript", 9, 0, 0, 0, 0, 3, 12
+"c:\Users\User\Desktop\navigation-categories-page\src\TablePage\Actios\TurnPage\TurnPage.module.css", "CSS", 0, 0, 24, 0, 0, 1, 25
+"c:\Users\User\Desktop\navigation-categories-page\src\TablePage\Actios\TurnPage\TurnPage.tsx", "TypeScript JSX", 0, 14, 0, 0, 0, 5, 19
+"c:\Users\User\Desktop\navigation-categories-page\src\TablePage\Editor\DropWrap\DropWrap.module.css", "CSS", 0, 0, 0, 0, 0, 1, 1
+"c:\Users\User\Desktop\navigation-categories-page\src\TablePage\Editor\DropWrap\DropWrap.tsx", "TypeScript JSX", 0, 15, 0, 0, 0, 4, 19
+"c:\Users\User\Desktop\navigation-categories-page\src\TablePage\Editor\Editor.module.css", "CSS", 0, 0, 15, 0, 0, 2, 17
+"c:\Users\User\Desktop\navigation-categories-page\src\TablePage\Editor\Editor.tsx", "TypeScript JSX", 0, 49, 0, 0, 0, 6, 55
+"c:\Users\User\Desktop\navigation-categories-page\src\TablePage\ITablePageProps.ts", "TypeScript", 10, 0, 0, 0, 0, 3, 13
+"c:\Users\User\Desktop\navigation-categories-page\src\TablePage\PageActions\IPageActionsProps.ts", "TypeScript", 4, 0, 0, 0, 0, 1, 5
+"c:\Users\User\Desktop\navigation-categories-page\src\TablePage\PageActions\PageActions.module.css", "CSS", 0, 0, 10, 0, 0, 1, 11
+"c:\Users\User\Desktop\navigation-categories-page\src\TablePage\PageActions\PageActions.tsx", "TypeScript JSX", 0, 43, 0, 0, 0, 9, 52
+"c:\Users\User\Desktop\navigation-categories-page\src\TablePage\RowTextItem\IRowTextItemProps.ts", "TypeScript", 4, 0, 0, 0, 0, 2, 6
+"c:\Users\User\Desktop\navigation-categories-page\src\TablePage\RowTextItem\RowTextItem.module.css", "CSS", 0, 0, 11, 0, 1, 1, 13
+"c:\Users\User\Desktop\navigation-categories-page\src\TablePage\RowTextItem\RowTextItem.tsx", "TypeScript JSX", 0, 11, 0, 0, 0, 5, 16
+"c:\Users\User\Desktop\navigation-categories-page\src\TablePage\SelectedAlert\ISelectedAlertProps.ts", "TypeScript", 6, 0, 0, 0, 0, 1, 7
+"c:\Users\User\Desktop\navigation-categories-page\src\TablePage\SelectedAlert\SelectedAlert.module.css", "CSS", 0, 0, 38, 0, 0, 5, 43
+"c:\Users\User\Desktop\navigation-categories-page\src\TablePage\SelectedAlert\SelectedAlert.tsx", "TypeScript JSX", 0, 28, 0, 0, 0, 6, 34
+"c:\Users\User\Desktop\navigation-categories-page\src\TablePage\TablePage.module.css", "CSS", 0, 0, 27, 0, 0, 17, 44
+"c:\Users\User\Desktop\navigation-categories-page\src\TablePage\TablePage.tsx", "TypeScript JSX", 0, 111, 0, 0, 2, 15, 128
+"c:\Users\User\Desktop\navigation-categories-page\src\TablePage\valid-data\valid-data.mock.ts", "TypeScript", 32, 0, 0, 0, 0, 1, 33
+"c:\Users\User\Desktop\navigation-categories-page\src\components\Layout\Container\Container.module.css", "CSS", 0, 0, 7, 0, 0, 1, 8
+"c:\Users\User\Desktop\navigation-categories-page\src\components\Layout\Container\Container.tsx", "TypeScript JSX", 0, 7, 0, 0, 0, 5, 12
+"c:\Users\User\Desktop\navigation-categories-page\src\components\Layout\Container\IContainerProps.ts", "TypeScript", 4, 0, 0, 0, 0, 2, 6
+"c:\Users\User\Desktop\navigation-categories-page\src\components\Layout\Gap\Gap.tsx", "TypeScript JSX", 0, 6, 0, 0, 0, 4, 10
+"c:\Users\User\Desktop\navigation-categories-page\src\components\Layout\Gap\IGapProps.ts", "TypeScript", 3, 0, 0, 0, 0, 1, 4
+"c:\Users\User\Desktop\navigation-categories-page\src\components\Products\BrightSelect\BrightSelect.module.css", "CSS", 0, 0, 3, 0, 0, 1, 4
+"c:\Users\User\Desktop\navigation-categories-page\src\components\Products\BrightSelect\BrightSelect.tsx", "TypeScript JSX", 0, 12, 0, 0, 0, 6, 18
+"c:\Users\User\Desktop\navigation-categories-page\src\components\Products\BrightSelect\IBrightSelectProps.ts", "TypeScript", 3, 0, 0, 0, 0, 1, 4
+"c:\Users\User\Desktop\navigation-categories-page\src\components\Products\EditProduct\TitltInputPair\ITitledContentProps.ts", "TypeScript", 5, 0, 0, 0, 0, 2, 7
+"c:\Users\User\Desktop\navigation-categories-page\src\components\Products\EditProduct\TitltInputPair\TitledContent.module.css", "CSS", 0, 0, 11, 0, 0, 2, 13
+"c:\Users\User\Desktop\navigation-categories-page\src\components\Products\EditProduct\TitltInputPair\TitledContent.tsx", "TypeScript JSX", 0, 12, 0, 0, 0, 5, 17
+"c:\Users\User\Desktop\navigation-categories-page\src\components\Products\Feature\Feature.module.css", "CSS", 0, 0, 10, 0, 0, 2, 12
+"c:\Users\User\Desktop\navigation-categories-page\src\components\Products\Feature\Feature.tsx", "TypeScript JSX", 0, 21, 0, 0, 5, 5, 31
+"c:\Users\User\Desktop\navigation-categories-page\src\components\Products\Images\IImagesProps.ts", "TypeScript", 3, 0, 0, 0, 0, 1, 4
+"c:\Users\User\Desktop\navigation-categories-page\src\components\Products\Images\ImageBlock\IImageBlockProps.ts", "TypeScript", 3, 0, 0, 0, 0, 1, 4
+"c:\Users\User\Desktop\navigation-categories-page\src\components\Products\Images\ImageBlock\ImageBlock.module.css", "CSS", 0, 0, 29, 0, 0, 4, 33
+"c:\Users\User\Desktop\navigation-categories-page\src\components\Products\Images\ImageBlock\ImageBlock.tsx", "TypeScript JSX", 0, 21, 0, 0, 0, 5, 26
+"c:\Users\User\Desktop\navigation-categories-page\src\components\Products\Images\Images.module.css", "CSS", 0, 0, 5, 0, 0, 1, 6
+"c:\Users\User\Desktop\navigation-categories-page\src\components\Products\Images\Images.tsx", "TypeScript JSX", 0, 21, 0, 0, 0, 6, 27
+"c:\Users\User\Desktop\navigation-categories-page\src\components\Products\ProductFeatures\IProductFeaturesProps.ts", "TypeScript", 6, 0, 0, 0, 0, 2, 8
+"c:\Users\User\Desktop\navigation-categories-page\src\components\Products\ProductFeatures\ProductFeatures.module.css", "CSS", 0, 0, 16, 0, 0, 3, 19
+"c:\Users\User\Desktop\navigation-categories-page\src\components\Products\ProductFeatures\ProductFeatures.tsx", "TypeScript JSX", 0, 25, 0, 0, 0, 6, 31
+"c:\Users\User\Desktop\navigation-categories-page\src\components\Products\ProductTags\ITagsBlockprops.ts", "TypeScript", 6, 0, 0, 0, 0, 2, 8
+"c:\Users\User\Desktop\navigation-categories-page\src\components\Products\ProductTags\TagsBlock.module.css", "CSS", 0, 0, 39, 0, 0, 5, 44
+"c:\Users\User\Desktop\navigation-categories-page\src\components\Products\ProductTags\TagsBlock.tsx", "TypeScript JSX", 0, 48, 0, 0, 0, 11, 59
+"c:\Users\User\Desktop\navigation-categories-page\src\components\Products\ProductValue\IProductValueProps.ts", "TypeScript", 4, 0, 0, 0, 0, 1, 5
+"c:\Users\User\Desktop\navigation-categories-page\src\components\Products\ProductValue\ProductValue.module.css", "CSS", 0, 0, 11, 0, 0, 2, 13
+"c:\Users\User\Desktop\navigation-categories-page\src\components\Products\ProductValue\ProductValue.tsx", "TypeScript JSX", 0, 20, 0, 0, 0, 6, 26
+"c:\Users\User\Desktop\navigation-categories-page\src\components\Products\ProductValue\Value\Value.module.css", "CSS", 0, 0, 10, 0, 0, 2, 12
+"c:\Users\User\Desktop\navigation-categories-page\src\components\Products\ProductValue\Value\Value.tsx", "TypeScript JSX", 0, 22, 0, 0, 0, 5, 27
+"c:\Users\User\Desktop\navigation-categories-page\src\components\Products\Tag\ITagProps.ts", "TypeScript", 4, 0, 0, 0, 0, 1, 5
+"c:\Users\User\Desktop\navigation-categories-page\src\components\Products\Tag\Tag.module.css", "CSS", 0, 0, 24, 0, 0, 3, 27
+"c:\Users\User\Desktop\navigation-categories-page\src\components\Products\Tag\Tag.tsx", "TypeScript JSX", 0, 17, 0, 0, 0, 6, 23
+"c:\Users\User\Desktop\navigation-categories-page\src\components\UI\Anchor\Anchor.module.css", "CSS", 0, 0, 7, 0, 0, 1, 8
+"c:\Users\User\Desktop\navigation-categories-page\src\components\UI\Anchor\Anchor.tsx", "TypeScript JSX", 0, 15, 0, 0, 0, 5, 20
+"c:\Users\User\Desktop\navigation-categories-page\src\components\UI\Anchor\IAnchorProps.ts", "TypeScript", 6, 0, 0, 0, 0, 2, 8
+"c:\Users\User\Desktop\navigation-categories-page\src\components\UI\BrightInput\BrightInput.module.css", "CSS", 0, 0, 12, 0, 0, 1, 13
+"c:\Users\User\Desktop\navigation-categories-page\src\components\UI\BrightInput\BrightInput.tsx", "TypeScript JSX", 0, 17, 0, 0, 0, 5, 22
+"c:\Users\User\Desktop\navigation-categories-page\src\components\UI\BrightInput\IBrightInputProps.ts", "TypeScript", 3, 0, 0, 0, 0, 1, 4
+"c:\Users\User\Desktop\navigation-categories-page\src\components\UI\Button\Button.module.css", "CSS", 0, 0, 28, 0, 0, 4, 32
+"c:\Users\User\Desktop\navigation-categories-page\src\components\UI\Button\Button.tsx", "TypeScript JSX", 0, 23, 0, 0, 0, 5, 28
+"c:\Users\User\Desktop\navigation-categories-page\src\components\UI\Button\IButtonProps.ts", "TypeScript", 7, 0, 0, 0, 0, 2, 9
+"c:\Users\User\Desktop\navigation-categories-page\src\components\UI\Card\Card.module.css", "CSS", 0, 0, 12, 0, 0, 1, 13
+"c:\Users\User\Desktop\navigation-categories-page\src\components\UI\Card\Card.tsx", "TypeScript JSX", 0, 7, 0, 0, 0, 5, 12
+"c:\Users\User\Desktop\navigation-categories-page\src\components\UI\Card\ICardProps.ts", "TypeScript", 4, 0, 0, 0, 0, 2, 6
+"c:\Users\User\Desktop\navigation-categories-page\src\components\UI\Checkbox\Checkbox.module.css", "CSS", 0, 0, 32, 0, 0, 3, 35
+"c:\Users\User\Desktop\navigation-categories-page\src\components\UI\Checkbox\Checkbox.tsx", "TypeScript JSX", 0, 18, 0, 0, 0, 4, 22
+"c:\Users\User\Desktop\navigation-categories-page\src\components\UI\Checkbox\ICheckboxProps.ts", "TypeScript", 6, 0, 0, 0, 0, 1, 7
+"c:\Users\User\Desktop\navigation-categories-page\src\components\UI\Dropdown\Dropdown.module.css", "CSS", 0, 0, 46, 0, 0, 5, 51
+"c:\Users\User\Desktop\navigation-categories-page\src\components\UI\Dropdown\Dropdown.tsx", "TypeScript JSX", 0, 37, 0, 0, 0, 8, 45
+"c:\Users\User\Desktop\navigation-categories-page\src\components\UI\Dropdown\IDropdownProps.ts", "TypeScript", 5, 0, 0, 0, 0, 1, 6
+"c:\Users\User\Desktop\navigation-categories-page\src\components\UI\Dropdown\ItemDropdown\IItemDropdownProps.ts", "TypeScript", 6, 0, 0, 0, 0, 1, 7
+"c:\Users\User\Desktop\navigation-categories-page\src\components\UI\Dropdown\ItemDropdown\ItemDropdown.module.css", "CSS", 0, 0, 17, 0, 0, 2, 19
+"c:\Users\User\Desktop\navigation-categories-page\src\components\UI\Dropdown\ItemDropdown\ItemDropdown.tsx", "TypeScript JSX", 0, 23, 0, 0, 0, 7, 30
+"c:\Users\User\Desktop\navigation-categories-page\src\components\UI\HTag\HTag.module.css", "CSS", 0, 0, 18, 0, 0, 1, 19
+"c:\Users\User\Desktop\navigation-categories-page\src\components\UI\HTag\HTag.tsx", "TypeScript JSX", 0, 8, 0, 0, 0, 5, 13
+"c:\Users\User\Desktop\navigation-categories-page\src\components\UI\HTag\IHTagProps.ts", "TypeScript", 5, 0, 0, 0, 0, 2, 7
+"c:\Users\User\Desktop\navigation-categories-page\src\components\UI\Input\IInputProps.ts", "TypeScript", 6, 0, 0, 0, 0, 1, 7
+"c:\Users\User\Desktop\navigation-categories-page\src\components\UI\Input\Input copy.tsx", "TypeScript JSX", 0, 17, 0, 0, 0, 6, 23
+"c:\Users\User\Desktop\navigation-categories-page\src\components\UI\Input\Input.module.css", "CSS", 0, 0, 40, 0, 0, 6, 46
+"c:\Users\User\Desktop\navigation-categories-page\src\components\UI\Input\Input.tsx", "TypeScript JSX", 0, 51, 0, 0, 4, 12, 67
+"c:\Users\User\Desktop\navigation-categories-page\src\components\UI\Modal\IModalProps.ts", "TypeScript", 6, 0, 0, 0, 0, 2, 8
+"c:\Users\User\Desktop\navigation-categories-page\src\components\UI\Modal\Modal.module.css", "CSS", 0, 0, 23, 0, 0, 3, 26
+"c:\Users\User\Desktop\navigation-categories-page\src\components\UI\Modal\Modal.tsx", "TypeScript JSX", 0, 27, 0, 0, 0, 7, 34
+"c:\Users\User\Desktop\navigation-categories-page\src\components\UI\Note\INoteProps.ts", "TypeScript", 4, 0, 0, 0, 0, 2, 6
+"c:\Users\User\Desktop\navigation-categories-page\src\components\UI\Note\Note.module.css", "CSS", 0, 0, 5, 0, 0, 1, 6
+"c:\Users\User\Desktop\navigation-categories-page\src\components\UI\Note\Note.tsx", "TypeScript JSX", 0, 7, 0, 0, 0, 5, 12
+"c:\Users\User\Desktop\navigation-categories-page\src\components\UI\PTag\IPTagProps.ts", "TypeScript", 6, 0, 0, 0, 0, 2, 8
+"c:\Users\User\Desktop\navigation-categories-page\src\components\UI\PTag\PTag.module.css", "CSS", 0, 0, 22, 0, 0, 4, 26
+"c:\Users\User\Desktop\navigation-categories-page\src\components\UI\PTag\PTag.tsx", "TypeScript JSX", 0, 13, 0, 0, 0, 6, 19
+"c:\Users\User\Desktop\navigation-categories-page\src\components\UI\PageSelect\IPageSelectProps.ts", "TypeScript", 4, 0, 0, 0, 0, 1, 5
+"c:\Users\User\Desktop\navigation-categories-page\src\components\UI\PageSelect\PageSelect.module.css", "CSS", 0, 0, 15, 0, 0, 1, 16
+"c:\Users\User\Desktop\navigation-categories-page\src\components\UI\PageSelect\PageSelect.tsx", "TypeScript JSX", 0, 22, 0, 0, 0, 7, 29
+"c:\Users\User\Desktop\navigation-categories-page\src\components\UI\PaleInput\IPaleInputProps.ts", "TypeScript", 3, 0, 0, 0, 0, 1, 4
+"c:\Users\User\Desktop\navigation-categories-page\src\components\UI\PaleInput\PaleInput.module.css", "CSS", 0, 0, 12, 0, 0, 1, 13
+"c:\Users\User\Desktop\navigation-categories-page\src\components\UI\PaleInput\PaleInput.tsx", "TypeScript JSX", 0, 7, 0, 0, 0, 5, 12
+"c:\Users\User\Desktop\navigation-categories-page\src\components\UI\PaleSelect\IPaleSelectProps.ts", "TypeScript", 3, 0, 0, 0, 0, 1, 4
+"c:\Users\User\Desktop\navigation-categories-page\src\components\UI\PaleSelect\PaleSelect.module.css", "CSS", 0, 0, 3, 0, 0, 1, 4
+"c:\Users\User\Desktop\navigation-categories-page\src\components\UI\PaleSelect\PaleSelect.tsx", "TypeScript JSX", 0, 12, 0, 0, 0, 6, 18
+"c:\Users\User\Desktop\navigation-categories-page\src\components\UI\Plus\IPlusProps.ts", "TypeScript", 4, 0, 0, 0, 0, 1, 5
+"c:\Users\User\Desktop\navigation-categories-page\src\components\UI\Plus\Plus.module.css", "CSS", 0, 0, 13, 0, 0, 1, 14
+"c:\Users\User\Desktop\navigation-categories-page\src\components\UI\Plus\Plus.tsx", "TypeScript JSX", 0, 12, 0, 0, 0, 5, 17
+"c:\Users\User\Desktop\navigation-categories-page\src\components\UI\RemoveButton\IRemoveButtomProps.ts", "TypeScript", 3, 0, 0, 0, 0, 1, 4
+"c:\Users\User\Desktop\navigation-categories-page\src\components\UI\RemoveButton\RemoveButton.module.css", "CSS", 0, 0, 6, 0, 0, 1, 7
+"c:\Users\User\Desktop\navigation-categories-page\src\components\UI\RemoveButton\RemoveButton.tsx", "TypeScript JSX", 0, 12, 0, 0, 0, 6, 18
+"c:\Users\User\Desktop\navigation-categories-page\src\components\UI\SearchInput\ISearchInputProps.ts", "TypeScript", 3, 0, 0, 0, 0, 1, 4
+"c:\Users\User\Desktop\navigation-categories-page\src\components\UI\SearchInput\SearchInput.module.css", "CSS", 0, 0, 27, 0, 0, 4, 31
+"c:\Users\User\Desktop\navigation-categories-page\src\components\UI\SearchInput\SearchInput.tsx", "TypeScript JSX", 0, 30, 0, 0, 0, 6, 36
+"c:\Users\User\Desktop\navigation-categories-page\src\components\UI\Select\ISelectProps.ts", "TypeScript", 4, 0, 0, 0, 0, 1, 5
+"c:\Users\User\Desktop\navigation-categories-page\src\components\UI\Select\Select.module.css", "CSS", 0, 0, 17, 0, 0, 2, 19
+"c:\Users\User\Desktop\navigation-categories-page\src\components\UI\Select\Select.tsx", "TypeScript JSX", 0, 18, 0, 0, 0, 5, 23
+"c:\Users\User\Desktop\navigation-categories-page\src\components\UI\Table\ITableProps.ts", "TypeScript", 12, 0, 0, 0, 0, 2, 14
+"c:\Users\User\Desktop\navigation-categories-page\src\components\UI\Table\TBody\TBody.tsx", "TypeScript JSX", 0, 33, 0, 0, 1, 5, 39
+"c:\Users\User\Desktop\navigation-categories-page\src\components\UI\Table\THead\ITHeadProps.ts", "TypeScript", 6, 0, 0, 0, 1, 2, 9
+"c:\Users\User\Desktop\navigation-categories-page\src\components\UI\Table\THead\THead.tsx", "TypeScript JSX", 0, 30, 0, 0, 0, 6, 36
+"c:\Users\User\Desktop\navigation-categories-page\src\components\UI\Table\Table.module.css", "CSS", 0, 0, 22, 0, 0, 4, 26
+"c:\Users\User\Desktop\navigation-categories-page\src\components\UI\Table\Table.tsx", "TypeScript JSX", 0, 34, 0, 0, 0, 5, 39
+"c:\Users\User\Desktop\navigation-categories-page\src\components\UI\Table\TableTr\ITableTr.ts", "TypeScript", 8, 0, 0, 0, 1, 1, 10
+"c:\Users\User\Desktop\navigation-categories-page\src\components\UI\Table\TableTr\TableTr.module.css", "CSS", 0, 0, 0, 0, 0, 1, 1
+"c:\Users\User\Desktop\navigation-categories-page\src\components\UI\Table\TableTr\TableTr.tsx", "TypeScript JSX", 0, 40, 0, 0, 2, 8, 50
+"c:\Users\User\Desktop\navigation-categories-page\src\components\UI\Textarea\ITextareaProps.ts", "TypeScript", 4, 0, 0, 0, 0, 1, 5
+"c:\Users\User\Desktop\navigation-categories-page\src\components\UI\Textarea\Textarea.module.css", "CSS", 0, 0, 15, 0, 0, 2, 17
+"c:\Users\User\Desktop\navigation-categories-page\src\components\UI\Textarea\Textarea.tsx", "TypeScript JSX", 0, 13, 0, 0, 0, 5, 18
+"c:\Users\User\Desktop\navigation-categories-page\src\helpers\getFeatures.ts", "TypeScript", 7, 0, 0, 0, 0, 2, 9
+"c:\Users\User\Desktop\navigation-categories-page\src\helpers\lead-data-to-correct.ts", "TypeScript", 20, 0, 0, 0, 0, 6, 26
+"c:\Users\User\Desktop\navigation-categories-page\src\helpers\make-price.ts", "TypeScript", 2, 0, 0, 0, 0, 1, 3
+"c:\Users\User\Desktop\navigation-categories-page\src\helpers\random-id.ts", "TypeScript", 5, 0, 0, 0, 0, 1, 6
+"c:\Users\User\Desktop\navigation-categories-page\src\helpers\transform-data.ts", "TypeScript", 14, 0, 0, 0, 0, 4, 18
+"c:\Users\User\Desktop\navigation-categories-page\src\index.css", "CSS", 0, 0, 26, 0, 0, 3, 29
+"c:\Users\User\Desktop\navigation-categories-page\src\index.tsx", "TypeScript JSX", 0, 17, 0, 0, 3, 5, 25
+"c:\Users\User\Desktop\navigation-categories-page\src\logo.svg", "SVG", 0, 0, 0, 1, 0, 0, 1
+"c:\Users\User\Desktop\navigation-categories-page\src\mock\categoty.mock.ts", "TypeScript", 63, 0, 0, 0, 0, 1, 64
+"c:\Users\User\Desktop\navigation-categories-page\src\mock\goods.mock.ts", "TypeScript", 8129, 0, 0, 0, 0, 1, 8130
+"c:\Users\User\Desktop\navigation-categories-page\src\mock\product-modal.mock.ts", "TypeScript", 154, 0, 0, 0, 0, 1, 155
+"c:\Users\User\Desktop\navigation-categories-page\src\mock\sub_category.mock.ts", "TypeScript", 290, 0, 0, 0, 0, 1, 291
+"c:\Users\User\Desktop\navigation-categories-page\src\mock\table-user.mock.ts", "TypeScript", 8005, 0, 0, 0, 0, 1, 8006
+"c:\Users\User\Desktop\navigation-categories-page\src\mock\users.mock.ts", "TypeScript", 8006, 0, 0, 0, 0, 1, 8007
+"c:\Users\User\Desktop\navigation-categories-page\src\pages\Banners\Banners.tsx", "TypeScript JSX", 0, 4, 0, 0, 0, 2, 6
+"c:\Users\User\Desktop\navigation-categories-page\src\pages\Brands\Brands.tsx", "TypeScript JSX", 0, 4, 0, 0, 0, 2, 6
+"c:\Users\User\Desktop\navigation-categories-page\src\pages\Categories\Categories.module.css", "CSS", 0, 0, 42, 0, 0, 6, 48
+"c:\Users\User\Desktop\navigation-categories-page\src\pages\Categories\Categories.tsx", "TypeScript JSX", 0, 108, 0, 0, 0, 13, 121
+"c:\Users\User\Desktop\navigation-categories-page\src\pages\Categories\EditCategoryItem\EditCategoryItem.module.css", "CSS", 0, 0, 25, 0, 0, 4, 29
+"c:\Users\User\Desktop\navigation-categories-page\src\pages\Categories\EditCategoryItem\EditCategoryItem.tsx", "TypeScript JSX", 0, 46, 0, 0, 0, 11, 57
+"c:\Users\User\Desktop\navigation-categories-page\src\pages\Categories\EditCategoryItem\IEditCategoryProps.ts", "TypeScript", 8, 0, 0, 0, 0, 2, 10
+"c:\Users\User\Desktop\navigation-categories-page\src\pages\Categories\Placeholder\IPlaceholderProps.ts", "TypeScript", 3, 0, 0, 0, 0, 1, 4
+"c:\Users\User\Desktop\navigation-categories-page\src\pages\Categories\Placeholder\Placeholder.module.css", "CSS", 0, 0, 12, 0, 0, 2, 14
+"c:\Users\User\Desktop\navigation-categories-page\src\pages\Categories\Placeholder\Placeholder.tsx", "TypeScript JSX", 0, 11, 0, 0, 0, 5, 16
+"c:\Users\User\Desktop\navigation-categories-page\src\pages\Cities\Cities.tsx", "TypeScript JSX", 0, 4, 0, 0, 0, 2, 6
+"c:\Users\User\Desktop\navigation-categories-page\src\pages\Clients\ActionPages\ActionPages.module.css", "CSS", 0, 0, 7, 0, 0, 1, 8
+"c:\Users\User\Desktop\navigation-categories-page\src\pages\Clients\ActionPages\ActionPages.tsx", "TypeScript JSX", 0, 25, 0, 0, 0, 5, 30
+"c:\Users\User\Desktop\navigation-categories-page\src\pages\Clients\Clients.module.css", "CSS", 0, 0, 8, 0, 0, 1, 9
+"c:\Users\User\Desktop\navigation-categories-page\src\pages\Clients\Clients.tsx", "TypeScript JSX", 0, 18, 0, 0, 0, 5, 23
+"c:\Users\User\Desktop\navigation-categories-page\src\pages\Home\Home.tsx", "TypeScript JSX", 0, 5, 0, 0, 0, 3, 8
+"c:\Users\User\Desktop\navigation-categories-page\src\pages\Login\Login.module.css", "CSS", 0, 0, 22, 0, 0, 4, 26
+"c:\Users\User\Desktop\navigation-categories-page\src\pages\Login\Login.tsx", "TypeScript JSX", 0, 48, 0, 0, 0, 7, 55
+"c:\Users\User\Desktop\navigation-categories-page\src\pages\Orders\Orders.tsx", "TypeScript JSX", 0, 4, 0, 0, 0, 2, 6
+"c:\Users\User\Desktop\navigation-categories-page\src\pages\Products\Products.module.css", "CSS", 0, 0, 0, 0, 0, 1, 1
+"c:\Users\User\Desktop\navigation-categories-page\src\pages\Products\Products.tsx", "TypeScript JSX", 0, 49, 0, 0, 0, 8, 57
+"c:\Users\User\Desktop\navigation-categories-page\src\pages\Products\TestProduct\TestProduct.tsx", "TypeScript JSX", 0, 10, 0, 0, 0, 4, 14
+"c:\Users\User\Desktop\navigation-categories-page\src\pages\Promocode\Promocode.tsx", "TypeScript JSX", 0, 4, 0, 0, 0, 2, 6
+"c:\Users\User\Desktop\navigation-categories-page\src\pages\Protocols\Protocols.tsx", "TypeScript JSX", 0, 4, 0, 0, 0, 2, 6
+"c:\Users\User\Desktop\navigation-categories-page\src\pages\Register\Register.module.css", "CSS", 0, 0, 18, 0, 0, 3, 21
+"c:\Users\User\Desktop\navigation-categories-page\src\pages\Register\Register.tsx", "TypeScript JSX", 0, 44, 0, 0, 0, 6, 50
+"c:\Users\User\Desktop\navigation-categories-page\src\pages\Seminars\Seminars.tsx", "TypeScript JSX", 0, 4, 0, 0, 0, 2, 6
+"c:\Users\User\Desktop\navigation-categories-page\src\public\assets\images\arrow-right.svg", "SVG", 0, 0, 0, 3, 0, 1, 4
+"c:\Users\User\Desktop\navigation-categories-page\src\public\assets\images\banners.svg", "SVG", 0, 0, 0, 6, 0, 0, 6
+"c:\Users\User\Desktop\navigation-categories-page\src\public\assets\images\brands.svg", "SVG", 0, 0, 0, 6, 0, 0, 6
+"c:\Users\User\Desktop\navigation-categories-page\src\public\assets\images\categories.svg", "SVG", 0, 0, 0, 6, 0, 10, 16
+"c:\Users\User\Desktop\navigation-categories-page\src\public\assets\images\cities.svg", "SVG", 0, 0, 0, 6, 0, 0, 6
+"c:\Users\User\Desktop\navigation-categories-page\src\public\assets\images\clear.svg", "SVG", 0, 0, 0, 3, 0, 1, 4
+"c:\Users\User\Desktop\navigation-categories-page\src\public\assets\images\codes.svg", "SVG", 0, 0, 0, 6, 0, 0, 6
+"c:\Users\User\Desktop\navigation-categories-page\src\public\assets\images\delete.svg", "SVG", 0, 0, 0, 3, 0, 1, 4
+"c:\Users\User\Desktop\navigation-categories-page\src\public\assets\images\dropdown.svg", "SVG", 0, 0, 0, 3, 0, 2, 5
+"c:\Users\User\Desktop\navigation-categories-page\src\public\assets\images\edit.svg", "SVG", 0, 0, 0, 3, 0, 1, 4
+"c:\Users\User\Desktop\navigation-categories-page\src\public\assets\images\en-arrow-right.svg", "SVG", 0, 0, 0, 3, 0, 1, 4
+"c:\Users\User\Desktop\navigation-categories-page\src\public\assets\images\link.svg", "SVG", 0, 0, 0, 3, 0, 1, 4
+"c:\Users\User\Desktop\navigation-categories-page\src\public\assets\images\no-image.svg", "SVG", 0, 0, 0, 3, 0, 1, 4
+"c:\Users\User\Desktop\navigation-categories-page\src\public\assets\images\orders.svg", "SVG", 0, 0, 0, 6, 0, 0, 6
+"c:\Users\User\Desktop\navigation-categories-page\src\public\assets\images\password.svg", "SVG", 0, 0, 0, 3, 0, 1, 4
+"c:\Users\User\Desktop\navigation-categories-page\src\public\assets\images\products.svg", "SVG", 0, 0, 0, 6, 0, 0, 6
+"c:\Users\User\Desktop\navigation-categories-page\src\public\assets\images\protocols.svg", "SVG", 0, 0, 0, 6, 0, 0, 6
+"c:\Users\User\Desktop\navigation-categories-page\src\public\assets\images\remove.svg", "SVG", 0, 0, 0, 3, 0, 1, 4
+"c:\Users\User\Desktop\navigation-categories-page\src\public\assets\images\remove_bnt.svg", "SVG", 0, 0, 0, 3, 0, 1, 4
+"c:\Users\User\Desktop\navigation-categories-page\src\public\assets\images\search.svg", "SVG", 0, 0, 0, 3, 0, 1, 4
+"c:\Users\User\Desktop\navigation-categories-page\src\public\assets\images\seminars.svg", "SVG", 0, 0, 0, 6, 0, 0, 6
+"c:\Users\User\Desktop\navigation-categories-page\src\public\assets\images\trash.svg", "SVG", 0, 0, 0, 3, 0, 1, 4
+"c:\Users\User\Desktop\navigation-categories-page\src\public\assets\images\users.svg", "SVG", 0, 0, 0, 6, 0, 0, 6
+"c:\Users\User\Desktop\navigation-categories-page\src\react-app-env.d.ts", "TypeScript", 0, 0, 0, 0, 1, 1, 2
+"c:\Users\User\Desktop\navigation-categories-page\src\reportWebVitals.ts", "TypeScript", 13, 0, 0, 0, 0, 3, 16
+"c:\Users\User\Desktop\navigation-categories-page\src\setupTests.ts", "TypeScript", 1, 0, 0, 0, 4, 1, 6
+"c:\Users\User\Desktop\navigation-categories-page\src\shared\constants\list-items.tsx", "TypeScript JSX", 0, 93, 0, 0, 0, 2, 95
+"c:\Users\User\Desktop\navigation-categories-page\src\shared\constants\select-values.ts", "TypeScript", 15, 0, 0, 0, 0, 2, 17
+"c:\Users\User\Desktop\navigation-categories-page\src\shared\constants\table-data.ts", "TypeScript", 51, 0, 0, 0, 0, 2, 53
+"c:\Users\User\Desktop\navigation-categories-page\src\shared\constants\table-row-item.ts", "TypeScript", 10, 0, 0, 0, 0, 1, 11
+"c:\Users\User\Desktop\navigation-categories-page\src\shared\interfaces\IClientsShape.ts", "TypeScript", 5, 0, 0, 0, 0, 1, 6
+"c:\Users\User\Desktop\navigation-categories-page\src\shared\interfaces\IListItem.ts", "TypeScript", 8, 0, 0, 0, 0, 1, 9
+"c:\Users\User\Desktop\navigation-categories-page\src\shared\interfaces\IProduct.ts", "TypeScript", 17, 0, 0, 0, 0, 2, 19
+"c:\Users\User\Desktop\navigation-categories-page\src\shared\interfaces\ISelectValues.ts", "TypeScript", 4, 0, 0, 0, 0, 1, 5
+"c:\Users\User\Desktop\navigation-categories-page\src\shared\interfaces\Itable-row-items.ts", "TypeScript", 8, 0, 0, 0, 0, 1, 9
+"c:\Users\User\Desktop\navigation-categories-page\src\shared\interfaces\Iuser.ts", "TypeScript", 9, 0, 0, 0, 0, 2, 11
+"c:\Users\User\Desktop\navigation-categories-page\src\shared\shape\product-additive.ts", "TypeScript", 62, 0, 0, 0, 0, 1, 63
+"c:\Users\User\Desktop\navigation-categories-page\src\shared\shape\shape-of-clients.ts", "TypeScript", 5, 0, 0, 0, 0, 1, 6
+"c:\Users\User\Desktop\navigation-categories-page\src\shared\shape\shape-of-products.ts", "TypeScript", 4, 0, 0, 0, 0, 1, 5
+"c:\Users\User\Desktop\navigation-categories-page\src\shared\types\IFeature.ts", "TypeScript", 1, 0, 0, 0, 0, 1, 2
+"c:\Users\User\Desktop\navigation-categories-page\src\shared\types\IHeadTable.ts", "TypeScript", 1, 0, 0, 0, 0, 1, 2
+"c:\Users\User\Desktop\navigation-categories-page\src\shared\types\TCatalogProduct.ts", "TypeScript", 3, 0, 0, 0, 0, 1, 4
+"c:\Users\User\Desktop\navigation-categories-page\src\shared\types\TCategory.ts", "TypeScript", 5, 0, 0, 0, 0, 1, 6
+"c:\Users\User\Desktop\navigation-categories-page\src\shared\types\TSubCategory.ts", "TypeScript", 7, 0, 0, 0, 0, 2, 9
+"c:\Users\User\Desktop\navigation-categories-page\src\shared\types\TTag.ts", "TypeScript", 4, 0, 0, 0, 0, 1, 5
+"Total", "-", 25192, 1704, 971, 100, 27, 697, 28691
